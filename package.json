@@ -54,5 +54,8 @@
 		"compilerOptions": {
 			"noUnusedLocals": false
 		}
+	},
+	"dependencies": {
+		"@cloudflare/puppeteer": "^0.0.5"
 	}
 }
