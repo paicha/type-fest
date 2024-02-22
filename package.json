@@ -6,7 +6,7 @@
 	"repository": "paicha/type-fest",
 	"author": {
 		"name": "paicha",
-		"email": "paicha@gmail.com",
+		"email": "paicha@gmail.com"
 	},
 	"types": "./index.d.ts",
 	"sideEffects": false,
